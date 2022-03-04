@@ -11,7 +11,8 @@ Steps followed:
 5. Increased performance of models is found when using clustered data, in comparison to using whole dataset.
 6. XGBoost performed the best on clustered and whole dataset with an R2 score of 0.899001 and 0.929995 respectively.
 
-![image](https://user-images.githubusercontent.com/64093713/156764066-dc8d3e37-70e5-44e1-b5c3-3f4be3b34858.png)
-![image](https://user-images.githubusercontent.com/64093713/156764173-df3a1339-50ad-475c-bd99-c2038a45fded.png)
+![image](https://user-images.githubusercontent.com/64093713/156765090-18ab6986-8215-4e36-ae82-2b499236b293.png)
+![image](https://user-images.githubusercontent.com/64093713/156765100-d68e4c96-df8c-4a44-b38c-931e90af10b0.png)
+
 
 Orange curve represent models trained on clustered data. The performance of XGBoost and Linear Regression was better.
