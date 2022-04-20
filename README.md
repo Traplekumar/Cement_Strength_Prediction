@@ -4,7 +4,7 @@ This repository code solves the problem of flawed cement mixture, which result i
 Dataset link - https://www.kaggle.com/vinayakshanawad/cement-manufacturing-concrete-dataset
 
 Steps followed:
-1. Performed EDA on dataset found that.
+1. Performed EDA on dataset.
 2. Find the correlation between features.
 3. Clustered the dataset using KMeans into 3 cluster.
 4. Trained model for each cluster and evaluated their performance.
